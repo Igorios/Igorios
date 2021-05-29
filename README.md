@@ -1,4 +1,9 @@
 ### Hi there 👋
+## I'm Igor Borges
+
+* I live in Brazil :brazil:, in Salvador :earth_americas:
+* I'm 18 years old :smile:
+
 
 <!--
 **Igorios/Igorios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

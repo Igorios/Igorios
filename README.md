@@ -4,6 +4,7 @@
 * Moro no Brasil 🌎
 * Trabalho com a JavaScript e PHP
 * Amo café ☕
+* Sou do Time Back-end 
 #
 
 ### Status 

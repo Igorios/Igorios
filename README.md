@@ -29,4 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
 </div>
 
+#
+
+### Total de visitas no meu perfil<br>
+
+ <p align="start"> 
+   <img alingn="start" src="https://profile-counter.glitch.me/Igorios/count.svg" />
+ </p>
+
 

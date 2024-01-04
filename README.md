@@ -37,4 +37,8 @@
    <img alingn="start" src="https://profile-counter.glitch.me/Igorios/count.svg" />
  </p>
 
+#
+
+### Meu portfólio:
+<a href="https://igorios.github.io/portfolio/">Portfólio</a>
 
